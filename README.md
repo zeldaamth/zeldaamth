@@ -23,3 +23,4 @@ Information Systems student with an interest in Data Analytics and Business Inte
 **Tools**:  Jupyter Notebook, Google Colab, Power BI
 
 ## 📌 Featured Projects
+🛒[Superstore Sales & Profit Analysis](https://github.com/zeldaamth/Superstore-analysis) - Analyzed sales and profitability data using SQL and Power BI to explore business performance, customer segments, and product categories.
