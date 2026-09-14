@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 -->
 Information Systems student with an interest in Data Analytics and Business Intelligence. Skilled in SQL, Python, Power BI, and Excel for data analysis, visualization, and reporting. Experienced in developing data-driven projects to uncover insights and support business decision-making, while continuously strengthening analytical and BI skills.
 
-📊 My Data Toolkit
-Languages: SQL, Python
-Tools:  Jupyter Notebook, Google Colab, Power BI
+## 📊 My Data Toolkit
 
-📌 Featured Projects
+**Languages**: SQL, Python
+**Tools**:  Jupyter Notebook, Google Colab, Power BI
+
+## 📌 Featured Projects
