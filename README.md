@@ -23,7 +23,7 @@ Final Year Information Systems student @ Universitas Pembangunan Nasional "Veter
 **Tools**:  Jupyter Notebook, Google Colab, Power BI
 
 ## 📌 Featured Projects
-🛒[Superstore Sales & Profit Analysis](https://github.com/zeldaamth/Superstore-analysis) - Analyzed sales and profitability data using SQL and Power BI to explore business performance, customer segments, and product categories.
-🛍️ [Sociolla Skincare Repurchase Analysis](https://github.com/zeldaamth/Sociolla-Skincare-Product-Repurchase-Analysis) — Repurchase analysis using Big Data, Random Forest, and data visualization
-🏘️ [Jakarta House Price Modeling](https://github.com/zeldaamth/Jakarta-House-Price-Prediction-Random-Forest-CRISP-DM) — End-to-end CRISP-DM project predicting housing prices using Random Forest and advanced feature engineering
+- 🛒[Superstore Sales & Profit Analysis](https://github.com/zeldaamth/Superstore-analysis) - Analyzed sales and profitability data using SQL and Power BI to explore business performance, customer segments, and product categories.
+- 🛍️ [Sociolla Skincare Repurchase Analysis](https://github.com/zeldaamth/Sociolla-Skincare-Product-Repurchase-Analysis) — Repurchase analysis using Big Data, Random Forest, and data visualization
+- 🏘️ [Jakarta House Price Modeling](https://github.com/zeldaamth/Jakarta-House-Price-Prediction-Random-Forest-CRISP-DM) — End-to-end CRISP-DM project predicting housing prices using Random Forest and advanced feature engineering
 
